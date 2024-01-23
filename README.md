@@ -6,6 +6,8 @@
 
 • A c++ based snake game, it includes the basic features of snake.
 
+• note: the movement does seem slow, but I slowed it down due to its normal speed being very unplayable.
+
 • future updates: 
 - a txt file highscore saving system
 - easy, medium, and hard mode
