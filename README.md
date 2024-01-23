@@ -10,6 +10,7 @@
 - a txt file highscore saving system
 - easy, medium, and hard mode
 - a proper menu.
+- memory usage
 
 ### CONTACT:
 
